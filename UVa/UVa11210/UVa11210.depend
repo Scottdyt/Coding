@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519695697 source:c:\users\scott\desktop\codepractice\uva11210\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

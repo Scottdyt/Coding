@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+
+//由于线段树是完全二叉树，我们也可以用数组来存储
+class segmentTree()
+{
+public:
+    int 
+};

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518058568 source:c:\users\scott\desktop\github\codepractice\uva11729\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

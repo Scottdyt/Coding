@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518266970 source:c:\users\scott\desktop\github\codepractice\la3708\attemp2.cpp
+	<cstdio>
+	<cmath>
+
+1518263839 source:c:\users\scott\desktop\github\codepractice\la3708\main.cpp
+	<iostream>
+	<cstdio>
+
